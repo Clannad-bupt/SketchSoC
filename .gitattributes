@@ -1,0 +1,7 @@
+# Keep LF line endings everywhere (shell/tcl scripts must stay LF for Linux)
+*.sh   text eol=lf
+*.tcl  text eol=lf
+*.sv   text eol=lf
+*.p4   text eol=lf
+*.py   text eol=lf
+*.md   text eol=lf

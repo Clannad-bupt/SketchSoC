@@ -1,0 +1,14 @@
+# Internal delivery/integration notes (not part of the public artifact)
+hardware/docs/
+
+# Build outputs
+build/
+hardware/build/
+
+# Legacy empty dir left over from restructuring (locked by editor)
+sketchsoc_rtl/
+
+# Misc
+tmp_upload/
+__pycache__/
+*.pyc
